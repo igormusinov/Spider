@@ -21,7 +21,7 @@ var user = API.users.get({"user_ids": [Args.user], "fields": ["photo_id", "verif
 
 var groups = API.groups.get({"user_id": Args.user, "extended": 1});
 
-var wall = API.wall.get({"owner_id": Args.user, "extended": 1});
+var wall = API.wall.get({"owner_id": Args.user, "count": 100, "extended": 1});
   
 return [user, groups, wall];
 ```
