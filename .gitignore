@@ -1,2 +1,20 @@
 
 .idea/
+
+data.sql.02.tar
+
+raw_data/
+
+saved/
+
+vk-api-saved/
+
+__pycache__/
+
+test.html
+
+users.csv
+
+.ipynb_checkpoints/
+
+vk-api-saved.tar.xz
