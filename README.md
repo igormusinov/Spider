@@ -43,6 +43,11 @@ Open in your browser (specify `<APP_ID>` from 1 step in the request)
 6. Launch notebook `vk_api_scrap.ipynb`
 
 
+## Forked Repo with the OAuth for VK ACCESS_TOKEN
+
+https://github.com/kimaril/Spider
+
+
 
 ### Usefull links
 
